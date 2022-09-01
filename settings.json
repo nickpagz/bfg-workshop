@@ -2,6 +2,6 @@
 	"language": "en",
 	"theme": "dark",
 	"per_page": "20",
-	"api_key": "0000",
+	"api_key": "",
 	"another_setting": true
 }
